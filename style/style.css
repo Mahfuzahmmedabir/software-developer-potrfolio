@@ -171,3 +171,9 @@ img {
   color: #474747;
   line-height: 35px;
 }
+/* resume section style */
+.resume-container{
+  display: flex;
+  gap: 24px;
+
+}
